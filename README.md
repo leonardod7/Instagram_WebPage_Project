@@ -13,7 +13,7 @@
 
 
 <div>
-  <img width="1643" alt="Instagram" src="">
+  <img width="1643" alt="Instagram" src="<img width="1643" alt="Insta" src="https://github.com/leonardod7/Instagram_WebPage_Project/assets/107505958/69355f0a-91be-416c-845d-5dd52aee412c">">
 </div>
 
 
